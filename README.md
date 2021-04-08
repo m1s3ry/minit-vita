@@ -16,6 +16,12 @@ If you don't have a copy of the game, you can buy it [HERE](https://store.steamp
 6. Copy all of the other game files (except options.ini and data.win) to `ux0:app/MINITVITA/games`
 7. Launch the game on your Vita and enjoy
 
+## Known Bugs
+* Fullscreen, and brightness sliders don't do anything
+* The camera slows the framerate and doesn't save images. Use screenshots instead.
+* Palette swap shader has been disabled
+* At one point in the game, the stats room will have slow framerate
+
 ## Credits
 Credits for the original game go to Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.
 Additional credit for the port goes to @Grossleymoo for UTMT and helping/teaching me to port Vita games.
