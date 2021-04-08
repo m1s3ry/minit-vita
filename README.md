@@ -24,6 +24,7 @@ _(You can also download the VPK from VitaDB, EasyVPK or VHBB. Patch and instruct
 * The camera slows the framerate and doesn't save images. Use screenshots instead.
 * Palette swap shader has been disabled
 * At one point in the game, the stats room will have slow framerate
+* Not actually a bug, but the game has Xbox buttons graphics
 
 ## Credits
 Credits for the original game go to Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.
