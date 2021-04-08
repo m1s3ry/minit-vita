@@ -16,6 +16,8 @@ If you don't have a copy of the game, you can buy it [HERE](https://store.steamp
 6. Copy all of the other game files (except options.ini and data.win) to `ux0:app/MINITVITA/games`
 7. Launch the game on your Vita and enjoy
 
+_(You can also download the VPK from VitaDB, EasyVPK or VHBB. Patch and instructions are included in `ux0:app/MINITVITA/games`)_
+
 ## Known Bugs
 * Fullscreen, and brightness sliders don't do anything
 * The camera slows the framerate and doesn't save images. Use screenshots instead.
