@@ -29,3 +29,8 @@ _(You can also download the VPK from VitaDB, EasyVPK or VHBB. Patch and instruct
 ## Credits
 Credits for the original game go to Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.
 Additional credit for the port goes to @Grossleymoo for UTMT and helping/teaching me to port Vita games.
+
+## Donations
+If you want to support my work, you can [buy me a coffee here!](https://www.buymeacoffee.com/m1s3ry)
+
+Also you can [follow me on twitter](https://www.twitter.com/m1s3ry_)
