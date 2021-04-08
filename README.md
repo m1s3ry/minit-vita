@@ -12,9 +12,10 @@ If you don't have a copy of the game, you can buy it [HERE](https://store.steamp
 2. Download the patch and extract it anywhere. Open your newly created patch folder
 3. If you have the Steam version of Minit, right click on it -> Manage -> Browse local files. Otherwise, find the folder in which Minit is installed
 4. Copy `data.win` to your patch folder, and execute `apply_patch.bat`
-5. Copy the resulting `game.win` to `ux0:app/MINITVITA/games`
-6. Copy all of the other game files (except options.ini and data.win) to `ux0:app/MINITVITA/games`
-7. Launch the game on your Vita and enjoy
+5. Launch VitaShell on your Vita and connect to PC via FTP or USB. (***NOTE:*** *If you connect through USB, you will need to enable Windows to show hidden files and folders*)
+6. Copy the resulting `game.win` to `ux0:app/MINITVITA/games`
+7. Copy all of the other game files (except options.ini and data.win) to `ux0:app/MINITVITA/games`
+8. Launch the game on your Vita and enjoy
 
 _(You can also download the VPK from VitaDB, EasyVPK or VHBB. Patch and instructions are included in `ux0:app/MINITVITA/games`)_
 
