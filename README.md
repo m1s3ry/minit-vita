@@ -21,7 +21,7 @@ _(You can also download the VPK from VitaDB, EasyVPK or VHBB. Patch and instruct
 
 ## Known Bugs
 * Fullscreen, and brightness sliders don't do anything
-* The camera slows the framerate and doesn't save images. Use screenshots instead.
+* The camera crashes and doesn't save screenshots. Don't use it. I mean it.
 * Palette swap shader has been disabled
 * At one point in the game, the stats room will have slow framerate
 * Not actually a bug, but the game has Xbox buttons graphics
