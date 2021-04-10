@@ -19,12 +19,16 @@ If you don't have a copy of the game, you can buy it [HERE](https://store.steamp
 
 _(You can also download the VPK from VitaDB, EasyVPK or VHBB. Patch and instructions are included in `ux0:app/MINITVITA/games`)_
 
+## Changelog
+### v1.1
+- Added compatibility with Epic Game Store and GoG versions
+- Fixed buttons displaying Xbox graphics
+- Camera no longer crashes the game (but it doesn't save pictures yet)
+
 ## Known Bugs
 * Fullscreen, and brightness sliders don't do anything
-* The camera crashes and doesn't save screenshots. Don't use it. I mean it.
 * Palette swap shader has been disabled
-* At one point in the game, the stats room will have slow framerate
-* Not actually a bug, but the game has Xbox buttons graphics
+* Some rooms have slow framerate. PSV Shell is highly recommended (oc ES4 to 166 or 222mhz)
 
 ## Credits
 Credits for the original game go to Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.
