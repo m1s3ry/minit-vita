@@ -16,6 +16,7 @@ If you don't have a copy of the game, you can buy it [HERE](https://store.steamp
 6. Copy the resulting `game.win` to `ux0:app/MINITVITA/games`
 7. Copy all of the other game files (except options.ini and data.win) to `ux0:app/MINITVITA/games`
 8. Launch the game on your Vita and enjoy
+9. (Optional) Use PSVShell and overclock ES4 to 166 or 222mhz to get fullspeed
 
 _(You can also download the VPK from VitaDB, EasyVPK or VHBB. Patch and instructions are included in `ux0:app/MINITVITA/games`)_
 
